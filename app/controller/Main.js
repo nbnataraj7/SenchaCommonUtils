@@ -30,28 +30,5 @@ Ext.define("SenchaCommonUtils.controller.Main", {
         SimpleAccordion.createPanel(parentView, panel1Config, body1Config);
         SimpleAccordion.createPanel(parentView, panel1Config, body1Config);
         SimpleAccordion.createPanel(parentView, panel1Config, body1Config);
-        SimpleAccordion.createPanel(parentView, panel1Config, body1Config);
-        SimpleAccordion.createPanel(parentView, panel1Config, body1Config);
-        SimpleAccordion.createPanel(parentView, panel1Config, body1Config);
-        SimpleAccordion.createPanel(parentView, panel1Config, body1Config);
-        SimpleAccordion.createPanel(parentView, panel1Config, body1Config);
-        SimpleAccordion.createPanel(parentView, panel1Config, body1Config);
-        SimpleAccordion.createPanel(parentView, panel1Config, body1Config);
-        SimpleAccordion.createPanel(parentView, panel1Config, body1Config);
-        SimpleAccordion.createPanel(parentView, panel1Config, body1Config);
-        SimpleAccordion.createPanel(parentView, panel1Config, body1Config);
-        SimpleAccordion.createPanel(parentView, panel1Config, body1Config);
-        SimpleAccordion.createPanel(parentView, panel1Config, body1Config);
-        SimpleAccordion.createPanel(parentView, panel1Config, body1Config);
-        SimpleAccordion.createPanel(parentView, panel1Config, body1Config);
-        SimpleAccordion.createPanel(parentView, panel1Config, body1Config);
-        SimpleAccordion.createPanel(parentView, panel1Config, body1Config);
-        SimpleAccordion.createPanel(parentView, panel1Config, body1Config);
-        SimpleAccordion.createPanel(parentView, panel1Config, body1Config);
-        SimpleAccordion.createPanel(parentView, panel1Config, body1Config);
-        SimpleAccordion.createPanel(parentView, panel1Config, body1Config);
-        SimpleAccordion.createPanel(parentView, panel1Config, body1Config);
-        SimpleAccordion.createPanel(parentView, panel1Config, body1Config);
-        SimpleAccordion.createPanel(parentView, panel1Config, body1Config);
     }
 });
