@@ -8,10 +8,11 @@
     text-align: left;
     padding-left: 10px;
     padding-top: 12px;
-    background-image: url(../../resources/appicons/toggle_minus.png);
+    background-image: url(../../resources/appicons/minus_grad.png);
     background-repeat: no-repeat;
     background-position-x: 95%;
     background-position-y: 50%;
+    background-size:7%;
 }
 .collapse-panel-body.x-container{
     background-color: #FFD6FF;
@@ -32,8 +33,9 @@
     text-align: left;
     padding-left: 10px;
     padding-top: 12px;
-    background-image: url(../../resources/appicons/toggle_plus.png);
+    background-image: url(../../resources/appicons/plus_grad.png);
     background-repeat: no-repeat;
     background-position-x: 95%;
     background-position-y: 50%;
+    background-size:7%;
 }
