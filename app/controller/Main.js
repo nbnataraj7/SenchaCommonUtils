@@ -1,5 +1,6 @@
 Ext.define("SenchaCommonUtils.controller.Main", {
     extend: 'Ext.app.Controller',
+    requires: ['SenchaCommonUtils.Utilities.SimpleAccordion'],
     config: {
         refs: {
             main: 'main'
@@ -26,6 +27,31 @@ Ext.define("SenchaCommonUtils.controller.Main", {
         }
 
         var SimpleAccordion = new Ext.create("SenchaCommonUtils.Utilities.SimpleAccordion");
+        SimpleAccordion.createPanel(parentView, panel1Config, body1Config);
+        SimpleAccordion.createPanel(parentView, panel1Config, body1Config);
+        SimpleAccordion.createPanel(parentView, panel1Config, body1Config);
+        SimpleAccordion.createPanel(parentView, panel1Config, body1Config);
+        SimpleAccordion.createPanel(parentView, panel1Config, body1Config);
+        SimpleAccordion.createPanel(parentView, panel1Config, body1Config);
+        SimpleAccordion.createPanel(parentView, panel1Config, body1Config);
+        SimpleAccordion.createPanel(parentView, panel1Config, body1Config);
+        SimpleAccordion.createPanel(parentView, panel1Config, body1Config);
+        SimpleAccordion.createPanel(parentView, panel1Config, body1Config);
+        SimpleAccordion.createPanel(parentView, panel1Config, body1Config);
+        SimpleAccordion.createPanel(parentView, panel1Config, body1Config);
+        SimpleAccordion.createPanel(parentView, panel1Config, body1Config);
+        SimpleAccordion.createPanel(parentView, panel1Config, body1Config);
+        SimpleAccordion.createPanel(parentView, panel1Config, body1Config);
+        SimpleAccordion.createPanel(parentView, panel1Config, body1Config);
+        SimpleAccordion.createPanel(parentView, panel1Config, body1Config);
+        SimpleAccordion.createPanel(parentView, panel1Config, body1Config);
+        SimpleAccordion.createPanel(parentView, panel1Config, body1Config);
+        SimpleAccordion.createPanel(parentView, panel1Config, body1Config);
+        SimpleAccordion.createPanel(parentView, panel1Config, body1Config);
+        SimpleAccordion.createPanel(parentView, panel1Config, body1Config);
+        SimpleAccordion.createPanel(parentView, panel1Config, body1Config);
+        SimpleAccordion.createPanel(parentView, panel1Config, body1Config);
+        SimpleAccordion.createPanel(parentView, panel1Config, body1Config);
         SimpleAccordion.createPanel(parentView, panel1Config, body1Config);
     }
 });
